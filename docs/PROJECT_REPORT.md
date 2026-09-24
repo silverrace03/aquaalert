@@ -10,7 +10,7 @@
 - **Course:** Introduction to Problem Solving using Python
 - **Faculty:** [Faculty name]
 - **Submission date:** [Date]
-- **GitHub repository:** `https://github.com/[username]/aquaalert`
+- **GitHub repository:** `https://github.com/silverrace03/aquaalert`
 
 ## 1. Abstract
 
