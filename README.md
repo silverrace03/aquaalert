@@ -54,11 +54,11 @@ These instructions assume that the evaluator has no prior project context.
 ### 1. Clone the public repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/aquaalert.git
+git clone https://github.com/silverrace03/aquaalert.git
 cd aquaalert
 ```
 
-Replace `YOUR-USERNAME` with the actual GitHub username.
+
 
 ### 2. Create a virtual environment
 
@@ -195,7 +195,7 @@ The test suite checks:
 The final repository must be public. Submit only its root URL:
 
 ```text
-https://github.com/YOUR-USERNAME/aquaalert
+https://github.com/silverrace03/aquaalert
 ```
 
 Do not submit a URL containing `/tree/`, `/blob/`, or a file name.
